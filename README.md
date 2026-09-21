@@ -77,16 +77,6 @@ A GenAI work assistant that cuts through complex, redundant workplace communicat
 
 ---
 
-## 🔭 What I'm digging into
-
-I'm not a PO who only writes specs — I run the tools myself before I judge them.
-
-- 🤖 **Agent orchestration** — [symphony](https://github.com/samko2717/symphony) · [OpenBot](https://github.com/samko2717/OpenBot)
-- 🎨 **Design systems for agents** — [huashu-design](https://github.com/samko2717/huashu-design) · [awesome-design-md](https://github.com/samko2717/awesome-design-md)
-- 🐝 **Multi-agent communication** — [buzz](https://github.com/samko2717/buzz)
-
----
-
 ## 🧠 How I work
 
 | | |
