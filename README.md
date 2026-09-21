@@ -88,7 +88,6 @@ A GenAI work assistant that cuts through complex, redundant workplace communicat
 **Other research & projects**
 - **Calm,my** — mental health assistant
 - **Grand Challenge** — in collaboration with Camden Borough
-- **KB Kookmin Bank chatbot** — presented as an LG webinar case
 
 **Currently researching** — AR/XR combined with AI assistants · multi-persona lifestyle AI
 
