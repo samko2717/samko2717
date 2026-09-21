@@ -19,13 +19,12 @@ Currently Product Owner, AI Product Team @ **Worxphere** · Seoul
 
 | Product | What it is | Impact |
 |---|---|---|
-| **[Kakao i Dataverse](https://www.byoungsamko.com/kakao-i-dataverse)** | Data governance & RAG platform | 80+ bots across 10 partners |
-| **[Hey Kakao](https://www.byoungsamko.com/hey-kakao)** | AI assistant | 93% response accuracy |
-| **[Workmate.AI](https://www.byoungsamko.com/workmateai)** | Communication & task-tracking assistant | Grown out of RCA research |
-| **[Mystix](https://www.byoungsamko.com/mystix-ai)** | K-Culture AI companion | Launched Mar 2026 |
-| **[Worxphere AX](https://www.byoungsamko.com/worxphere-ax)** | AI operations & labor-market intelligence | In progress |
-| **[Singlex Chatbot Platform](https://www.byoungsamko.com/singlex-chatbot)** · LG CNS | Legacy migration tooling | — |
-| **[B2B2C Chatbots](https://www.byoungsamko.com/b2b2cchatbots)** | Finance & retail | 6 launches |
+| **[Hey Kakao](https://www.byoungsamko.com/hey-kakao)** | Kakao's voice AI assistant — mobile, smart speakers, IoT pads, in-car | **5M+ users** · fallback rate 15% → 7% · response accuracy <85% → 93% · 3+ new B2B deals |
+| **[Kakao i Dataverse](https://www.byoungsamko.com/kakao-i-dataverse)** | Data governance & RAG platform connecting proprietary data to AI services | **500K monthly data transactions** · 70+ connected bots & services · 10 partners · +30% user-flow success, −20% time-on-task |
+| **[B2B2C Chatbots](https://www.byoungsamko.com/b2b2cchatbots)** | 6 partner chatbots for NH Investment, Korea Investment & GS Retail | **1M utterance transactions in month one** · −20% contact-centre inquiries · 200K utterances trained |
+| **[Mystix](https://www.byoungsamko.com/mystix-ai)** | AI character relationship platform | **10K downloads in month 1 → 50K by month 3** on Google Play (Indonesia, Japan) |
+| **[Singlex Chatbot Platform](https://www.byoungsamko.com/singlex-chatbot)** · LG CNS | Enterprise SaaS chatbot builder — consolidated 5 fragmented platforms | +15% response accuracy · 30% leaner ops (6→3 people per build) |
+| **[Worxphere AX](https://www.byoungsamko.com/worxphere-ax)** | AI operations & labor-market intelligence | In progress · 🔒 case study on request |
 
 > Every product above links to its full case study. Browse them all at **[byoungsamko.com](https://www.byoungsamko.com)** — available in EN / KO / JA.
 
@@ -50,7 +49,7 @@ User research → product strategy → UX design → cross-functional delivery. 
 
 ### [WORKMATE.AI](https://2024.rca.ac.uk/school-of-design/service-design-ma/profile/byoungsam-ko/) — MA capstone
 
-A service that cuts through complex, redundant workplace communication to improve work–life balance and job satisfaction.
+A GenAI work assistant that cuts through complex, redundant workplace communication to improve work–life balance and job satisfaction. Grounded in 10 in-depth interviews with designers, managers and developers.
 
 **What the research found**
 
@@ -67,7 +66,7 @@ A service that cuts through complex, redundant workplace communication to improv
 | **Knowledge Librarian** | Expands the pool of knowledge people can actually reach |
 | **Active Tracker** | Supports task tracking and management |
 
-> 💡 This research became a real product → **[Workmate.AI case study](https://www.byoungsamko.com/workmateai)**
+> 💡 Now moving toward MVP and business validation → **[Workmate.AI case study](https://www.byoungsamko.com/workmateai)**
 
 **Other research & projects**
 - **Calm,my** — mental health assistant
