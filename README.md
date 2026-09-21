@@ -30,6 +30,23 @@ Currently Product Owner, AI Product Team @ **Worxphere** · Seoul
 
 ---
 
+## 🧩 Portfolio tech stack
+
+I built and operate **[byoungsamko.com](https://www.byoungsamko.com)** as a multilingual AI product—not just a static case-study site. It combines localized content, a retrieval-grounded assistant, reusable answer orchestration, analytics, SEO and automated quality checks.
+
+| Layer | Stack | What it supports |
+|---|---|---|
+| **Product UI** | Next.js 16 · React 19 · TypeScript · Tailwind CSS | Responsive case studies, accessible interactions and EN / KO / JA localization |
+| **AI agent** | Claude Haiku · multilingual corpus-grounded RAG · DB-first exact/similar answer routing | Faster grounded answers, lower inference cost and guarded access to public content |
+| **Data** | Neon Postgres · Drizzle ORM | Question logging and a reusable answer store |
+| **Analytics & discovery** | Amplitude Analytics + Session Replay · JSON-LD · localized metadata · sitemap | Product-learning signals and multilingual search visibility |
+| **AI-assisted workflow** | OpenAI Codex · Claude Code | Iterative implementation, UX writing review, responsive QA and code review |
+| **Delivery & QA** | Vercel · GitHub PR workflow · TypeScript, ESLint and 31 automated tests | Repeatable deployments and regression protection |
+
+**[View the source and implementation →](https://github.com/samko2717/byoungsamko-home)**
+
+---
+
 ## 👋 About
 
 I've shaped **10+ AI products** — SaaS platforms, assistants, chatbots, ERP systems and AI devices — across **Kakao Enterprise, LG CNS and Lotte**, spanning mobility, finance, retail, manufacturing and healthcare in both B2B and B2C.
