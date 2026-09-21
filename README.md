@@ -1,30 +1,43 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=12,16,20&text=Sam%20Ko&fontSize=48&fontAlignY=32&desc=AI%20Product%20Owner%20—%20from%20ambiguity%20to%20useful%20products&descAlignY=52&descSize=16&section=header)
-
 <div align="center">
 
-**I define problems through research, and carry them all the way to shipped products.**
+# Sam Ko · 고병삼
+
+### AI Product Owner — from ambiguity to useful products
 
 MA Service Design, Royal College of Art · 10+ years in product & UX
+Currently Product Owner, AI Product Team @ **Worxphere** · Seoul
 
 [![Portfolio](https://img.shields.io/badge/byoungsamko.com-000000?style=for-the-badge&logo=googlechrome&logoColor=fff)](https://www.byoungsamko.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge&logoColor=fff)](https://www.linkedin.com/in/byoungsamko/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/byoungsamko/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kosam123@gmail.com)
 
 </div>
 
 ---
 
+## 🚀 Products I've shipped
+
+| Product | What it is | Impact |
+|---|---|---|
+| **[Kakao i Dataverse](https://www.byoungsamko.com/kakao-i-dataverse)** | Data governance & RAG platform | 80+ bots across 10 partners |
+| **[Hey Kakao](https://www.byoungsamko.com/hey-kakao)** | AI assistant | 93% response accuracy |
+| **[Workmate.AI](https://www.byoungsamko.com/workmateai)** | Communication & task-tracking assistant | Grown out of RCA research |
+| **[Mystix](https://www.byoungsamko.com/mystix-ai)** | K-Culture AI companion | Launched Mar 2026 |
+| **[Worxphere AX](https://www.byoungsamko.com/worxphere-ax)** | AI operations & labor-market intelligence | In progress |
+| **[Singlex Chatbot Platform](https://www.byoungsamko.com/singlex-chatbot)** · LG CNS | Legacy migration tooling | — |
+| **[B2B2C Chatbots](https://www.byoungsamko.com/b2b2cchatbots)** | Finance & retail | 6 launches |
+
+> Every product above links to its full case study. Browse them all at **[byoungsamko.com](https://www.byoungsamko.com)** — available in EN / KO / JA.
+
+---
+
+## 👋 About
+
 I've shaped **10+ AI products** — SaaS platforms, assistants, chatbots, ERP systems and AI devices — across **Kakao Enterprise, LG CNS and Lotte**, spanning mobility, finance, retail, manufacturing and healthcare in both B2B and B2C.
 
 User research → product strategy → UX design → cross-functional delivery. I own the whole line rather than handing it off.
 
-Currently **Product Owner, AI Product Team @ Worxphere** (Seoul, 2026–)
-
-> 🌐 Full portfolio & case studies (EN / KO / JA) → **[byoungsamko.com](https://www.byoungsamko.com)**
-
----
-
-## 🧭 How I think about AI
+### 🧭 How I think about AI
 
 > ### "AI Assistant for human"
 >
@@ -54,7 +67,7 @@ A service that cuts through complex, redundant workplace communication to improv
 | **Knowledge Librarian** | Expands the pool of knowledge people can actually reach |
 | **Active Tracker** | Supports task tracking and management |
 
-> 💡 This research became a real product — **Workmate.AI**. → [Case study](https://www.byoungsamko.com)
+> 💡 This research became a real product → **[Workmate.AI case study](https://www.byoungsamko.com/workmateai)**
 
 **Other research & projects**
 - **Calm,my** — mental health assistant
@@ -62,22 +75,6 @@ A service that cuts through complex, redundant workplace communication to improv
 - **KB Kookmin Bank chatbot** — presented as an LG webinar case
 
 **Currently researching** — AR/XR combined with AI assistants · multi-persona lifestyle AI
-
----
-
-## 🚀 Products I've shipped
-
-| Product | What it is | Impact |
-|---|---|---|
-| **Kakao i Dataverse** | Data governance & RAG platform | 80+ bots across 10 partners |
-| **Hey Kakao** | AI assistant | 93% response accuracy |
-| **Workmate.AI** | Communication & task-tracking assistant | Grown out of RCA research |
-| **Mystix** | K-Culture AI companion | Launched Mar 2026 |
-| **Worxphere AX** | AI operations & labor-market intelligence | In progress |
-| **Singlex Chatbot Platform** · LG CNS | Legacy migration tooling | — |
-| **B2B2C Chatbot** | Finance & retail | 6 launches |
-
-📖 Detailed case studies → **[byoungsamko.com](https://www.byoungsamko.com)**
 
 ---
 
